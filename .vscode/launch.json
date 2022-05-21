@@ -1,0 +1,594 @@
+{
+  // Use IntelliSense to learn about possible attributes.
+  // Hover to view descriptions of existing attributes.
+  // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "Launch pattern4",
+      "request": "launch",
+      "mainClass": "nestedforloop.pattern4",
+      "projectName": "learn java self code_b9cb7326"
+    },
+    {
+      "type": "java",
+      "name": "Launch pattern5",
+      "request": "launch",
+      "mainClass": "nestedforloop.pattern5",
+      "projectName": "learn java self code_b9cb7326"
+    },
+    {
+      "type": "java",
+      "name": "Launch seriesSum",
+      "request": "launch",
+      "mainClass": "loops.seriesSum",
+      "projectName": "learn java self code_b9cb7326"
+    },
+    {
+      "type": "java",
+      "name": "Launch Prime",
+      "request": "launch",
+      "mainClass": "loops.Prime",
+      "projectName": "learn java self code_b9cb7326"
+    },
+    {
+      "type": "java",
+      "name": "Launch encapsulationIntroduction",
+      "request": "launch",
+      "mainClass": "encapsulation.encapsulationIntroduction",
+      "projectName": "learn java self code_c1172f45"
+    },
+    {
+      "type": "java",
+      "name": "Launch SelectionSort",
+      "request": "launch",
+      "mainClass": "arrays.SelectionSort",
+      "projectName": "learn java self code_c1172f45"
+    },
+    {
+      "type": "java",
+      "name": "Launch Bubblesort",
+      "request": "launch",
+      "mainClass": "arrays.Bubblesort",
+      "projectName": "learn java self code_c1172f45"
+    },
+    {
+      "type": "java",
+      "name": "Launch TwoDArrays",
+      "request": "launch",
+      "mainClass": "arrays.TwoDArrays",
+      "projectName": "learn java self code_c1172f45"
+    },
+    {
+      "type": "java",
+      "name": "Launch Solution",
+      "request": "launch",
+      "mainClass": "Solution",
+      "projectName": "learn java self code_2867facd"
+    },
+    {
+      "type": "java",
+      "name": "Launch Myfirstclass",
+      "request": "launch",
+      "mainClass": "Myfirstclass",
+      "projectName": "learn java self code_2867facd"
+    },
+    {
+      "type": "java",
+      "name": "Launch Datatypes",
+      "request": "launch",
+      "mainClass": "Datatypes",
+      "projectName": "learn java self code_2867facd"
+    },
+    {
+      "type": "java",
+      "name": "Launch TwoDArrays",
+      "request": "launch",
+      "mainClass": "arrays.TwoDArrays",
+      "projectName": "learn java self code_2867facd"
+    },
+    {
+      "type": "java",
+      "name": "Launch MyArrayList",
+      "request": "launch",
+      "mainClass": "lists.MyArrayList",
+      "projectName": "learn java self code_141ddbd3"
+    },
+    {
+      "type": "java",
+      "name": "Launch MainClass",
+      "request": "launch",
+      "mainClass": "exceptionHandling.MainClass",
+      "projectName": "learn java self code_141ddbd3"
+    },
+    {
+      "type": "java",
+      "name": "Launch Person",
+      "request": "launch",
+      "mainClass": "Oops.interfaces.Person",
+      "projectName": "learn java self code_141ddbd3"
+    },
+    {
+      "type": "java",
+      "name": "Launch MainClass",
+      "request": "launch",
+      "mainClass": "Oops.finalKeyword.MainClass",
+      "projectName": "learn java self code_141ddbd3"
+    },
+    {
+      "type": "java",
+      "name": "Launch RepairShop",
+      "request": "launch",
+      "mainClass": "Oops.abstraction.RepairShop",
+      "projectName": "learn java self code_141ddbd3"
+    },
+    {
+      "type": "java",
+      "name": "Launch MainClass",
+      "request": "launch",
+      "mainClass": "Oops.polymorphism.MainClass",
+      "projectName": "learn java self code_141ddbd3"
+    },
+    {
+      "type": "java",
+      "name": "Launch mainClass",
+      "request": "launch",
+      "mainClass": "Oops.methodOVeriding.mainClass",
+      "projectName": "learn java self code_141ddbd3"
+    },
+    {
+      "type": "java",
+      "name": "Launch mainClass",
+      "request": "launch",
+      "mainClass": "Oops.inheritance.mainClass",
+      "projectName": "learn java self code_141ddbd3"
+    },
+    {
+      "type": "java",
+      "name": "Launch Staticblock",
+      "request": "launch",
+      "mainClass": "Oops.xyzstatic.Staticblock",
+      "projectName": "learn java self code_141ddbd3"
+    },
+    {
+      "type": "java",
+      "name": "Launch test",
+      "request": "launch",
+      "mainClass": "Oops.xyzstatic.test",
+      "projectName": "learn java self code_141ddbd3"
+    },
+    {
+      "type": "java",
+      "name": "Launch counterdemo",
+      "request": "launch",
+      "mainClass": "Oops.xyzstatic.counterdemo",
+      "projectName": "learn java self code_141ddbd3"
+    },
+    {
+      "type": "java",
+      "name": "Launch Employee",
+      "request": "launch",
+      "mainClass": "Oops.xyzstatic.Employee",
+      "projectName": "learn java self code_141ddbd3"
+    },
+    {
+      "type": "java",
+      "name": "Launch test2",
+      "request": "launch",
+      "mainClass": "Oops.xyzstatic.test2",
+      "projectName": "learn java self code_141ddbd3"
+    },
+    {
+      "type": "java",
+      "name": "Launch Current File",
+      "request": "launch",
+      "mainClass": "${file}"
+    },
+    {
+      "type": "java",
+      "name": "Launch Datatypes",
+      "request": "launch",
+      "mainClass": "Datatypes",
+      "projectName": "learn java self code_141ddbd3"
+    },
+    {
+      "type": "java",
+      "name": "Launch Myfirstclass",
+      "request": "launch",
+      "mainClass": "Myfirstclass",
+      "projectName": "learn java self code_141ddbd3"
+    },
+    {
+      "type": "java",
+      "name": "Launch Casio",
+      "request": "launch",
+      "mainClass": "Oops.Casio",
+      "projectName": "learn java self code_141ddbd3"
+    },
+    {
+      "type": "java",
+      "name": "Launch Employeee",
+      "request": "launch",
+      "mainClass": "Oops.Employeee",
+      "projectName": "learn java self code_141ddbd3"
+    },
+    {
+      "type": "java",
+      "name": "Launch MYConstructor",
+      "request": "launch",
+      "mainClass": "Oops.MYConstructor",
+      "projectName": "learn java self code_141ddbd3"
+    },
+    {
+      "type": "java",
+      "name": "Launch StaticKeyword",
+      "request": "launch",
+      "mainClass": "Oops.StaticKeyword",
+      "projectName": "learn java self code_141ddbd3"
+    },
+    {
+      "type": "java",
+      "name": "Launch Test1",
+      "request": "launch",
+      "mainClass": "Oops.Test1",
+      "projectName": "learn java self code_141ddbd3"
+    },
+    {
+      "type": "java",
+      "name": "Launch demo",
+      "request": "launch",
+      "mainClass": "Oops.demo",
+      "projectName": "learn java self code_141ddbd3"
+    },
+    {
+      "type": "java",
+      "name": "Launch mainClass",
+      "request": "launch",
+      "mainClass": "Oops.mainClass",
+      "projectName": "learn java self code_141ddbd3"
+    },
+    {
+      "type": "java",
+      "name": "Launch teacher",
+      "request": "launch",
+      "mainClass": "Oops.pack.modelpackag2.teacher",
+      "projectName": "learn java self code_141ddbd3"
+    },
+    {
+      "type": "java",
+      "name": "Launch test",
+      "request": "launch",
+      "mainClass": "Oops.test",
+      "projectName": "learn java self code_141ddbd3"
+    },
+    {
+      "type": "java",
+      "name": "Launch Solution",
+      "request": "launch",
+      "mainClass": "Solution",
+      "projectName": "learn java self code_141ddbd3"
+    },
+    {
+      "type": "java",
+      "name": "Launch Anagram",
+      "request": "launch",
+      "mainClass": "Strings.Anagram",
+      "projectName": "learn java self code_141ddbd3"
+    },
+    {
+      "type": "java",
+      "name": "Launch stringsIntro",
+      "request": "launch",
+      "mainClass": "Strings.stringsIntro",
+      "projectName": "learn java self code_141ddbd3"
+    },
+    {
+      "type": "java",
+      "name": "Launch ArrayIntro",
+      "request": "launch",
+      "mainClass": "arrays.ArrayIntro",
+      "projectName": "learn java self code_141ddbd3"
+    },
+    {
+      "type": "java",
+      "name": "Launch ArverageMarksOfStudent",
+      "request": "launch",
+      "mainClass": "arrays.ArverageMarksOfStudent",
+      "projectName": "learn java self code_141ddbd3"
+    },
+    {
+      "type": "java",
+      "name": "Launch Bubblesort",
+      "request": "launch",
+      "mainClass": "arrays.Bubblesort",
+      "projectName": "learn java self code_141ddbd3"
+    },
+    {
+      "type": "java",
+      "name": "Launch MatrixAddition",
+      "request": "launch",
+      "mainClass": "arrays.MatrixAddition",
+      "projectName": "learn java self code_141ddbd3"
+    },
+    {
+      "type": "java",
+      "name": "Launch SelectionSort",
+      "request": "launch",
+      "mainClass": "arrays.SelectionSort",
+      "projectName": "learn java self code_141ddbd3"
+    },
+    {
+      "type": "java",
+      "name": "Launch TwoDArrays",
+      "request": "launch",
+      "mainClass": "arrays.TwoDArrays",
+      "projectName": "learn java self code_141ddbd3"
+    },
+    {
+      "type": "java",
+      "name": "Launch IfClass",
+      "request": "launch",
+      "mainClass": "conditionalStatements.IfClass",
+      "projectName": "learn java self code_141ddbd3"
+    },
+    {
+      "type": "java",
+      "name": "Launch IfElse",
+      "request": "launch",
+      "mainClass": "conditionalStatements.IfElse",
+      "projectName": "learn java self code_141ddbd3"
+    },
+    {
+      "type": "java",
+      "name": "Launch IfElseIf",
+      "request": "launch",
+      "mainClass": "conditionalStatements.IfElseIf",
+      "projectName": "learn java self code_141ddbd3"
+    },
+    {
+      "type": "java",
+      "name": "Launch SwitchCaseStatement",
+      "request": "launch",
+      "mainClass": "conditionalStatements.SwitchCaseStatement",
+      "projectName": "learn java self code_141ddbd3"
+    },
+    {
+      "type": "java",
+      "name": "Launch TernaryOperatorIfElse",
+      "request": "launch",
+      "mainClass": "conditionalStatements.TernaryOperatorIfElse",
+      "projectName": "learn java self code_141ddbd3"
+    },
+    {
+      "type": "java",
+      "name": "Launch cCalculator",
+      "request": "launch",
+      "mainClass": "conditionalStatements.cCalculator",
+      "projectName": "learn java self code_141ddbd3"
+    },
+    {
+      "type": "java",
+      "name": "Launch nestedIf",
+      "request": "launch",
+      "mainClass": "conditionalStatements.nestedIf",
+      "projectName": "learn java self code_141ddbd3"
+    },
+    {
+      "type": "java",
+      "name": "Launch DoWhileLoops",
+      "request": "launch",
+      "mainClass": "dowhile.DoWhileLoops",
+      "projectName": "learn java self code_141ddbd3"
+    },
+    {
+      "type": "java",
+      "name": "Launch encapsulationIntroduction",
+      "request": "launch",
+      "mainClass": "encapsulation.encapsulationIntroduction",
+      "projectName": "learn java self code_141ddbd3"
+    },
+    {
+      "type": "java",
+      "name": "Launch Break1",
+      "request": "launch",
+      "mainClass": "loops.Break1",
+      "projectName": "learn java self code_141ddbd3"
+    },
+    {
+      "type": "java",
+      "name": "Launch Continue1",
+      "request": "launch",
+      "mainClass": "loops.Continue1",
+      "projectName": "learn java self code_141ddbd3"
+    },
+    {
+      "type": "java",
+      "name": "Launch ForLoops",
+      "request": "launch",
+      "mainClass": "loops.ForLoops",
+      "projectName": "learn java self code_141ddbd3"
+    },
+    {
+      "type": "java",
+      "name": "Launch Power",
+      "request": "launch",
+      "mainClass": "loops.Power",
+      "projectName": "learn java self code_141ddbd3"
+    },
+    {
+      "type": "java",
+      "name": "Launch Prime",
+      "request": "launch",
+      "mainClass": "loops.Prime",
+      "projectName": "learn java self code_141ddbd3"
+    },
+    {
+      "type": "java",
+      "name": "Launch Seriessum2",
+      "request": "launch",
+      "mainClass": "loops.Seriessum2",
+      "projectName": "learn java self code_141ddbd3"
+    },
+    {
+      "type": "java",
+      "name": "Launch factorial",
+      "request": "launch",
+      "mainClass": "loops.factorial",
+      "projectName": "learn java self code_141ddbd3"
+    },
+    {
+      "type": "java",
+      "name": "Launch fibonacci",
+      "request": "launch",
+      "mainClass": "loops.fibonacci",
+      "projectName": "learn java self code_141ddbd3"
+    },
+    {
+      "type": "java",
+      "name": "Launch seriesSum",
+      "request": "launch",
+      "mainClass": "loops.seriesSum",
+      "projectName": "learn java self code_141ddbd3"
+    },
+    {
+      "type": "java",
+      "name": "Launch tablefrom1to20",
+      "request": "launch",
+      "mainClass": "loops.tablefrom1to20",
+      "projectName": "learn java self code_141ddbd3"
+    },
+    {
+      "type": "java",
+      "name": "Launch Introduction",
+      "request": "launch",
+      "mainClass": "methods.Introduction",
+      "projectName": "learn java self code_141ddbd3"
+    },
+    {
+      "type": "java",
+      "name": "Launch passedByvalue",
+      "request": "launch",
+      "mainClass": "methods.passedByvalue",
+      "projectName": "learn java self code_141ddbd3"
+    },
+    {
+      "type": "java",
+      "name": "Launch NestedForLoop",
+      "request": "launch",
+      "mainClass": "nestedforloop.NestedForLoop",
+      "projectName": "learn java self code_141ddbd3"
+    },
+    {
+      "type": "java",
+      "name": "Launch pattern1",
+      "request": "launch",
+      "mainClass": "nestedforloop.pattern1",
+      "projectName": "learn java self code_141ddbd3"
+    },
+    {
+      "type": "java",
+      "name": "Launch pattern2",
+      "request": "launch",
+      "mainClass": "nestedforloop.pattern2",
+      "projectName": "learn java self code_141ddbd3"
+    },
+    {
+      "type": "java",
+      "name": "Launch pattern3",
+      "request": "launch",
+      "mainClass": "nestedforloop.pattern3",
+      "projectName": "learn java self code_141ddbd3"
+    },
+    {
+      "type": "java",
+      "name": "Launch pattern4",
+      "request": "launch",
+      "mainClass": "nestedforloop.pattern4",
+      "projectName": "learn java self code_141ddbd3"
+    },
+    {
+      "type": "java",
+      "name": "Launch pattern5",
+      "request": "launch",
+      "mainClass": "nestedforloop.pattern5",
+      "projectName": "learn java self code_141ddbd3"
+    },
+    {
+      "type": "java",
+      "name": "Launch pattern6",
+      "request": "launch",
+      "mainClass": "nestedforloop.pattern6",
+      "projectName": "learn java self code_141ddbd3"
+    },
+    {
+      "type": "java",
+      "name": "Launch ArithmeticOperators",
+      "request": "launch",
+      "mainClass": "operators.ArithmeticOperators",
+      "projectName": "learn java self code_141ddbd3"
+    },
+    {
+      "type": "java",
+      "name": "Launch LogicalOperator",
+      "request": "launch",
+      "mainClass": "operators.LogicalOperator",
+      "projectName": "learn java self code_141ddbd3"
+    },
+    {
+      "type": "java",
+      "name": "Launch abc",
+      "request": "launch",
+      "mainClass": "operators.abc",
+      "projectName": "learn java self code_141ddbd3"
+    },
+    {
+      "type": "java",
+      "name": "Launch bitwiseOperators",
+      "request": "launch",
+      "mainClass": "operators.bitwiseOperators",
+      "projectName": "learn java self code_141ddbd3"
+    },
+    {
+      "type": "java",
+      "name": "Launch comparisonOperators",
+      "request": "launch",
+      "mainClass": "operators.comparisonOperators",
+      "projectName": "learn java self code_141ddbd3"
+    },
+    {
+      "type": "java",
+      "name": "Launch typeCasting",
+      "request": "launch",
+      "mainClass": "typeCasting",
+      "projectName": "learn java self code_141ddbd3"
+    },
+    {
+      "type": "java",
+      "name": "Launch ScannerUserInput",
+      "request": "launch",
+      "mainClass": "userInput.ScannerUserInput",
+      "projectName": "learn java self code_141ddbd3"
+    },
+    {
+      "type": "java",
+      "name": "Launch PalindromeNumber",
+      "request": "launch",
+      "mainClass": "whileloop.PalindromeNumber",
+      "projectName": "learn java self code_141ddbd3"
+    },
+    {
+      "type": "java",
+      "name": "Launch SumOfDigit",
+      "request": "launch",
+      "mainClass": "whileloop.SumOfDigit",
+      "projectName": "learn java self code_141ddbd3"
+    },
+    {
+      "type": "java",
+      "name": "Launch Shubham",
+      "request": "launch",
+      "mainClass": "Shubham"
+    }
+  ]
+}
